@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=div-coder" alt="div-coder" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend and UI**
+- 🔭 I’m currently working on **MVC ASP.NET FRAMEWORK**
 
-- 🌱 I’m currently learning **Flutter,PHP,Firebase**
+- 🌱 I’m currently learning **AngularJS, .NET, C#**
 
-- 👯 I’m looking to collaborate on **APP development**
+- 👯 I’m looking to collaborate on **WEb Development Projects**
 
 - 🤝 I’m looking for help with **backend in APP development**
 
